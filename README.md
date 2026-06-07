@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Sukhwinder-webdev-code/Sukhwinder-webdev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Sukhwinder Kaur
 
-Here are some ideas to get you started:
+Aspiring Cloud & Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+* AWS Certified Cloud Practitioner
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+
+## Skills
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Python
+* SQL
+* Git & GitHub
+* AWS
+* Microsoft Azure
+
+## Projects
+
+* Hotel Website
+* To-Do App
+* Calculator App
+* Movie Review App
+* Banking APP
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sukhwinder-webdev
