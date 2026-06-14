@@ -4,11 +4,11 @@ Hi, I’m Sukhwinder Kaur
 Frontend Developer and aws cloud practitioner.
 
 ## Table of Contents
--[About Me](#About-Me)
--[Skills](#Skills)
--[Featured Projects](#Projects)
--[Certifications](#Certifications)
--[Contact](#Contact)
+- [About Me](#About-Me)
+- [Skills](#Skills)
+- [Featured Projects](#Projects)
+- [Certifications](#Certifications)
+- [Contact](#Contact)
 
 ## About-Me
 I am a frontend developer skilled in HTML, CSS, JavaScript, and cloud technologies. 
@@ -27,7 +27,10 @@ I enjoy building responsive web applications and learning modern frameworks.
 * Microsoft Azure
 
 ## Projects
-* Hotel Website
+### Hotel Website
+  Live: hotel-website-git-main-sukhwinder-s-projects.vercel.app
+  Code:
+  
 * To-Do App
 * Calculator App
 * Movie Review App
