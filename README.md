@@ -28,8 +28,8 @@ I enjoy building responsive web applications and learning modern frameworks.
 
 ## Projects
 ### Hotel Website
- Live: hotel-website-git-main-sukhwinder-s-projects.vercel.app
- Code: https://github.com/Sukhwinder-webdev-code/Hotel-Website.git
+ [Live Demo](https://hotel-website-gamma-jet.vercel.app)
+[Code](https://github.com/Sukhwinder-webdev-code/Hotel-Website.git)
   
 ### To-Do App
 ### Calculator App
