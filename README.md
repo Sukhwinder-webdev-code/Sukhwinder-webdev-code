@@ -32,13 +32,20 @@ I enjoy building responsive web applications and learning modern frameworks.
 - [Code](https://github.com/Sukhwinder-webdev-code/Hotel-Website.git)
 
 ### Dark/Light Mode Application
--[Live Demo]( https://toggle-theme-jbe8eyyf8-sukhwinder-s-projects.vercel.app)
--[Code](https://github.com/Sukhwinder-webdev-code/toggleTheme.git)
+- [Live Demo]( https://toggle-theme-jbe8eyyf8-sukhwinder-s-projects.vercel.app)
+- [Code](https://github.com/Sukhwinder-webdev-code/toggleTheme.git)
 
 ### To-Do App
+- [Live Demo](https://advanced-to-do-list-2606bj5mx-sukhwinder-s-projects.vercel.app)
+- [Code](https://github.com/Sukhwinder-webdev-code/advancedToDoList.git)
+  
 ### Calculator App
-### Movie Review App
+- [Live Demo](https://advanced-calculator-cqzfff1rk-sukhwinder-s-projects.vercel.app)
+- [Code](https://github.com/Sukhwinder-webdev-code/AdvancedCalculator.git)
+  
 ### Banking APP
+- [Live Demo](https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app)
+- [Code](https://github.com/Sukhwinder-webdev-code/AdvanceBankingSystemApplication.git)
 
 ## Certifications
 * AWS Certified Cloud Practitioner
