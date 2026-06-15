@@ -47,6 +47,14 @@ I enjoy building responsive web applications and learning modern frameworks.
 - [Live Demo](https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app)
 - [Code](https://github.com/Sukhwinder-webdev-code/AdvanceBankingSystemApplication.git)
 
+### Password Generator App
+- [Live Demo](https://sukhwinder-webdev-code.github.io/React-Password-Generator/)
+- [Code](https://github.com/Sukhwinder-webdev-code/React-Password-Generator)
+
+### Movie Review App
+- [Live Demo](https://sukhwinder-webdev-code.github.io/React-Project/)
+- [Code](https://github.com/Sukhwinder-webdev-code/React-Project)
+
 ## Certifications
 * AWS Certified Cloud Practitioner
 * Microsoft Certified: Azure Fundamentals (AZ-900)
