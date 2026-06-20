@@ -40,7 +40,7 @@ I enjoy building responsive web applications and learning modern frameworks.
 - [Code](https://github.com/Sukhwinder-webdev-code/advancedToDoList.git)
   
 ### Calculator App
-- [Live Demo](https://advanced-calculator-cqzfff1rk-sukhwinder-s-projects.vercel.app)
+- [Live Demo](https://advanced-calculator-lake.vercel.app)
 - [Code](https://github.com/Sukhwinder-webdev-code/AdvancedCalculator.git)
   
 ### Banking APP
