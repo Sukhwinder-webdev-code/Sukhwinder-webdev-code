@@ -52,7 +52,7 @@ I enjoy building responsive web applications and learning modern frameworks.
 - [Code](https://github.com/Sukhwinder-webdev-code/React-Password-Generator)
 
 ### Movie Review App
-- [Live Demo](https://sukhwinder-webdev-code.github.io/React-Project/)
+- [Live Demo](https://react-project-vy56.vercel.app/)
 - [Code](https://github.com/Sukhwinder-webdev-code/React-Project)
 
 ## Certifications
