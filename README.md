@@ -11,7 +11,7 @@ Frontend Developer and aws cloud practitioner.
 - [Contact](#Contact)
 
 ## About-Me
-I am a frontend developer skilled in HTML, CSS, JavaScript, and cloud technologies. 
+I am a frontend developer skilled in HTML, CSS, JavaScript, python and cloud technologies. 
 I enjoy building responsive web applications and learning modern frameworks.
 
 
